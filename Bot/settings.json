@@ -1,0 +1,6 @@
+{
+  "loginDetails": {
+    "user": ["insert username here"],
+    "pass": ["insert password here"]
+  }
+}
